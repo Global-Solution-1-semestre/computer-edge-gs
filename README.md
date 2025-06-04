@@ -15,7 +15,6 @@ Para rodar o projeto voce precisara usar o site **Wokwi** seguindo os passos aba
     - U8g2
     - LiquidCrystal I2C
 3. aperte no botão **Start simulation** e teste ele a vontade!!!! 
-![botão de simulação](/assets/simulation-button.png)
 
 # Links
 link do repositorio: ![https://github.com/Global-Solution-1-semestre/computer-edge-gs](https://github.com/Global-Solution-1-semestre/computer-edge-gs)
