@@ -9,12 +9,13 @@ Com o uso do Arduino, nos desenvolvemos um projeto que utiliza o DHT para medir 
 
 # Rodando o projeto no Wokwi
 Para rodar o projeto voce precisara usar o site **Wokwi** seguindo os passos abaixo:
-- 1. copie e cole os arquivos sketch.ino e diagram.json para seus respectivos arquivos para o **wokwi**
-- 2. instale as seguintes depedencias na pagina de dependencias:
+1. copie e cole os arquivos sketch.ino e diagram.json para seus respectivos arquivos para o **wokwi**
+2. instale as seguintes depedencias na pagina de dependencias:
     - DHT sensor library
     - U8g2
     - LiquidCrystal I2C
-- 3. aperte no botão **Start simulation** e teste ele a vontade!!!! ![botão de simulação](/assets/simulation-button.png)
+3. aperte no botão **Start simulation** e teste ele a vontade!!!! 
+![botão de simulação](/assets/simulation-button.png)
 
 # Links
 link do repositorio: ![https://github.com/Global-Solution-1-semestre/computer-edge-gs](https://github.com/Global-Solution-1-semestre/computer-edge-gs)
