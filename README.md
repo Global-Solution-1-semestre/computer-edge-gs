@@ -1,4 +1,4 @@
-# GS - 
+# GS - Edge
 # Problema
 Identificamos que a varios lugares de risco que não existe um sistema de alerta para enchentes. A falta dessas ferramentas significa que os moradores não têm conhecimento prévio das inundações, fazendo que em acidentes devastadores. As consequências são trágicas: além da perda de vidas, há um rastro de feridos, desalojados e a destruição de residências.
 
@@ -20,4 +20,4 @@ Para rodar o projeto voce precisara usar o site **Wokwi** seguindo os passos aba
 # Links
 - link do repositorio: https://github.com/Global-Solution-1-semestre/computer-edge-gs
 - link do projeto: https://wokwi.com/projects/432387377511530497
-- link do video: https://drive.google.com/file/d/10L51eUqGApWez4_YtpkifM8MSfdTNFm8/view?usp=sharing
+- link do video: https://youtu.be/FoPlpJZIB9M
